@@ -1,8 +1,8 @@
 # 💫 About Me:
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://prajakta.io)
 <h1 align="left">Hi 👋, I'm Prajakta Sakre</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
-🔭 **I’m currently learning:**  <br>Bootstrap Framework and NodeJs.<br><br>
+<h3 align="left">A passionate WEB developer from India</h3>
+🔭 **I’m currently learning:**  <br>MERN Stack .<br><br>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PrajaktaSakre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-sakre-154930224/) 
